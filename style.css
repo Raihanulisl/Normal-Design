@@ -1,0 +1,64 @@
+
+nav ul{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    border: none;
+}
+nav ul li{
+        list-style: none;
+        margin-right: 250px;
+        text-decoration: none;
+        border: none;
+        
+}
+.title{
+    text-decoration: none;
+    border: none;
+}
+.size{
+    margin-right: 5px;
+}
+.size-2{
+    margin-right: 5px;
+}
+size-3{
+    margin-right: 250px;
+}
+.donate{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    list-style: none;
+    margin-right: 30px;
+    text-decoration: none;
+    border: none;
+}
+size-4{
+    margin-right: 75px;
+}
+.color{
+    background-color: chartreuse;
+}
+
+.btn-praimary{
+    width: 300px;
+    height: 20px;
+}
+.deferent{
+       display: flex;
+       justify-items: center;
+       justify-content: space-between;
+      
+}
+
+
+
+
+
+
+
+
+
+
+
